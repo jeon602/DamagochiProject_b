@@ -29,3 +29,19 @@ public class AppConfig {
     }
 
 }
+
+//AWS S3 서비스를 사용할수 있는 클라이언트 생성 설정 클래스임.
+
+// aws s3클라이언트를 생성하기 위한 설정 클래스로, @Configuration 어노테이션을 사용해 설정 클래스임을 나타냄,.
+// @value를 사용해 외부 설정 파일에서 aws 액세스 키 id와 비밀 액세스 키를 가져옴.
+// 직접 키를 포함시키지 않고 외부 설정 파일에 따라 변경할 수 있음
+
+// @Bean 어노테이션을 상ㅇ해 s3Client()메소드를 빈으로 정의함
+//aws키를 사용해 s3Client 인스턴스를 생성하고 구성함.
+
+//  S3Client.builder()를 사용하여 S3 클라이언트를 생성하고,
+//  .region() 메서드를 사용하여 지역(Region)을 설정하고,
+//  .credentialsProvider() 메서드를 사용하여 인증 자격 증명 공급자를 설정함.
+//  AWS 액세스 키를 직접 제공하는 방식으로
+//  StaticCredentialsProvider를 사용함.
+//  .build() 메서드를 호출하여 S3 클라이언트를 구성하고 반환함.
