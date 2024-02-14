@@ -80,3 +80,21 @@ public class SecurityConfig {
         return source;
     }
 }
+
+
+
+//웹 보안을 설정하는 클래스임
+// 인증과 권한 부여를 관리하고 CORS (Cross-Origin Resource Sharing)를 구성하여
+// 클라이언트와의 HTTP 요청 간에 보안 정책을 관리함
+// 시큐리티필터체인 : 빈 설정 필터체인 메소드가 시큪리티 필터 체인 빈을 생성함
+// 이는 http 보안 필터 테인을 구성함, 스프링 시큐리티에서 http 요청을 처리하는 핵심 역할을 함
+//
+// http 보안 설정
+//CORS 구성:
+//.cors()를 통해 CORS (Cross-Origin Resource Sharing) 구성을 적용합니다.
+//corsConfigurationSource() 메서드를 통해 CORS 구성을 설정합니다.
+//모든 출처, 메서드, 헤더를 허용하도록 구성됩니다.
+
+// 패스워드 인코더 빈 설정 빈을 등록해 패스워드 인코딩을 처리함
+// 인증 필터 추가해 커스텀 인증 필터를 등록함
+// 해당 필터는 토큰  기반의 인증을 처리함
