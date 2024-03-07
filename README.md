@@ -3,13 +3,7 @@
 </header>
 
 <section>
-  <nav>
-    <ul>
-      <li>London</li>
-      <li>Paris</li>
-      <li>Tokyo</li>
-    </ul>
-  </nav>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/147f628f-9797-43dc-919b-d415acaffb76" width="90%"></img>
   
   <article>
     <h1>London</h1>
