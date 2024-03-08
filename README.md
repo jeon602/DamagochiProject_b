@@ -4,14 +4,36 @@
 
 <section>
 <img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/147f628f-9797-43dc-919b-d415acaffb76" width="90%"></img>
-  
-  <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</section>
+<section>
+
+## 프로젝트 개발 일정
+
+| 작업명       | 담당자 | 1W | 2W | 3W | 4W | 비고                  |
+|--------------|--------|----|----|----|----|----------------------|
+| 1. 계획      |        |    |    |    |    | 2024.01.04 ~ 2024.01.08 |
+| - 목표정의   | 김도형  | ○  |    |    |    |                      |
+| - 계획서 작성| 김도형  | ○  |    |    |    |                      |
+| - 계획서 검토회의 | 김도형 | ○ | | | | |
+| 2. 요구분석 |        |    |    |    |    | 2024.01.09 ~ 2024.01.12 |
+| - 기존 사이트 조사 | 양희도 | ○ | | | | |
+| - 사용자 요구 분석 | 양희도 | ○ | | | | |
+| - 필요기능 정의 | 전희연 | | ○ | | | |
+| - 요구 분석서 작성 | 주예린 | | ○ | | | |
+| 3. 설계      |        |    |    |    |    | 2024.01.15 ~ 2024.01.17 |
+| - 시스템 구조설계 | 김도형 | | ○ | | | |
+| - 설계서 작성 | 양희도 | | ○ | | | |
+| - 발표자료 작성 | 전희연 | | ○ | | | |
+| 4. 구현      |        |    |    |    |    | 2024.01.18 ~ 2024.01.31 |
+| - 기능의구현 | 전체   |    |    | ○  | ○  |                      |
+| - 서버 및 DB 구축 | 전체 |    |    | ○ | ○ | |
+| - 각 부분 기능 통합 | 전체 |    |    | ○ | ○ | |
+| 5. 시험 및 피드백 |      |    |    |    |    | 2024.01.25 ~ 2024.01.31 |
+| - 시험 및 테스트 | 전체 |    |    |    | ○ | |
+| - 메뉴얼 작성 | 전체 |    |    |    | ○ | |
+| - 최종 발표자료 작성 | 전체 |    |    |    | ○ | |
+
   </article>
+  
 </section>
 
-<footer>
-  <p>Footer</p>
-</footer>
