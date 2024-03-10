@@ -3,7 +3,29 @@
 </header>
 
 <section>
-<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/147f628f-9797-43dc-919b-d415acaffb76" width="90%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/147f628f-9797-43dc-919b-d415acaffb76" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/5a5e0e35-0282-440e-88a7-f72052575b04" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/e3b454dd-ad85-4f4c-84c9-8684e6c90864" width="100%"></img>
+<!-- <img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/4f84fb62-581d-45e6-9dab-5762f135a717" width="100%"></img> --> 
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/da799db7-c919-4dfe-b63c-c72ec4be3dab" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/2dad8643-f37b-4421-bc87-2a91d379fcf5" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/b1d0c6dd-dd08-43b8-b0fc-44a12335ad8d" width="100%"></img>
+<!--  <img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/88d557a4-bfab-49ec-a5ac-c4f629d82915" width="100%"></img> -->
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/037d9fd4-4e27-48ea-be9f-bd7c15d6eb64" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/aaaa5b38-af4d-4368-b15d-3181c25019ce" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/8c3b6dd1-67fe-496a-bb95-3bfd689d6467" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/ac30ecb9-b283-47e6-89b5-60c7565454fc" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/682ffc93-d305-4ca2-9ee9-50f813699cfc" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/fb8fced9-99e9-41a4-bc6e-6bf83cbe44ca" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/e288b3fd-72f4-44f5-bdd9-50ba8d7ea208" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/80204286-2ae8-4c5b-884f-fd0de761cb62" width="100%"></img>
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/8ed4e2aa-2ebe-48e7-a5bd-4aa11f66056f" width="100%"></img>
+<!-- <img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/e87e8052-6914-4f41-9fe3-6e3f49ac56f3" width="100%"></img> -->
+<img src="https://github.com/jeon602/DamagochiProject_b/assets/143367041/6e4998ca-e2f9-46b7-8607-cf3b800f7a53" width="100%"></img>
+
+
+
+ 
 </section>
 <section>
 
